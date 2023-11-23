@@ -1,0 +1,20 @@
+h1 {
+    color: #4d5748;;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family:serif ;
+}
+body {
+    background-image: url(https://i.pinimg.com/564x/fe/b8/de/feb8deecb88e6f55817d78364044b81e.jpg);
+    background-size: cover;
+}
+h2 {
+    color:#4d5748;
+    font-weight: bold;
+    font-size: x-large;
+    font-family:script ;
+}
+table{
+    background-color:rgb(255, 248, 238);
+    width:100%;
+}
